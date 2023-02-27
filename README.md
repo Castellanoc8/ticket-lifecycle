@@ -36,7 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/O06GhOp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+To start of this example, I first created a few sample tickets that will be viewed, assigned, worked out, and resolved throughout the ticket process.
 </p>
 <br />
 
@@ -44,7 +44,7 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <img src="https://i.imgur.com/uccNPRp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+Continuing on to the Intake Phase, I was able to see which open tickets I had when logged into one of the sample agent accounts. I was able to find these open tickets by clicking on the tickets tab, and then going into the open tickets section.
 </p>
 <br />
 
@@ -58,7 +58,7 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <img src="https://i.imgur.com/NHiFRhW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+Since I was signed into an Admins account, I was able to control the whole assignment process. Here I am able to change the status, Priority, Department, and which agent I want to assign the open ticket to. Also, in this section any communication between the assigned agent and recipients will be updated and stored on this open ticket.
 </p>
 <br />
 
@@ -78,7 +78,7 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <img src="https://i.imgur.com/DCFd251.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+Here during this step, I wanted to show examples of how it would look while working the open ticket from the beginning of the process right up until before the ticket is resolved and closed.
 </p>
 
 <p>
@@ -88,5 +88,5 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <img src="https://i.imgur.com/R2IGgTV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+To conclude this example, I showed that the ticket has been resolved and closed. You will be able to see the tickets that have been resolved in osTicket by going to the tickets tab and clicking on the closed tickets section. Any ticket that has been closed by any admins or agents will be stored in this section.
 </p>
