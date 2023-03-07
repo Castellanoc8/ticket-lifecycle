@@ -44,7 +44,7 @@ To start of this example, I first created a few sample tickets that will be view
 <img src="https://i.imgur.com/uccNPRp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Continuing on to the Intake Phase, I was able to see which open tickets I had when logged into one of the sample agent accounts. I was able to find these open tickets by clicking on the tickets tab, and then going into the open tickets section.
+Continuing to the Intake Phase, I could see which open tickets I had when logged into one of the sample agent accounts. I could find these open tickets by clicking on the tickets tab and then going into the open tickets section.
 </p>
 <br />
 
@@ -58,7 +58,7 @@ Continuing on to the Intake Phase, I was able to see which open tickets I had wh
 <img src="https://i.imgur.com/NHiFRhW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Since I was signed into an Admins account, I was able to control the whole assignment process. Here I am able to change the status, Priority, Department, and which agent I want to assign the open ticket to. Also, in this section any communication between the assigned agent and recipients will be updated and stored on this open ticket.
+Since I was signed into an Admins account, I could control the whole assignment process. Here I can change the status, Priority, Department, and which agent I want to assign the open ticket. Also, in this section, any communication between the assigned agent and recipients will be updated and stored on this open ticket.
 </p>
 <br />
 
@@ -78,7 +78,7 @@ Since I was signed into an Admins account, I was able to control the whole assig
 <img src="https://i.imgur.com/DCFd251.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here during this step, I wanted to show examples of how it would look while working the open ticket from the beginning of the process right up until before the ticket is resolved and closed.
+During this step, I wanted to show examples of how it would look while working the open ticket from the beginning of the process until before the ticket is resolved and closed.
 </p>
 
 <p>
@@ -88,5 +88,5 @@ Here during this step, I wanted to show examples of how it would look while work
 <img src="https://i.imgur.com/R2IGgTV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To conclude this example, I showed that the ticket has been resolved and closed. You will be able to see the tickets that have been resolved in osTicket by going to the tickets tab and clicking on the closed tickets section. Any ticket that has been closed by any admins or agents will be stored in this section.
+To conclude this tutorial, I showed that the ticket had been resolved and closed. You can see the tickets that have been resolved in osTicket by going to the tickets tab and clicking on the closed tickets section. Any ticket that has been closed by any admins or agents will be stored in this section.
 </p>
